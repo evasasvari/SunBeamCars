@@ -1,0 +1,62 @@
+
+header{
+    background-image:url(images/car-g33eadb523_1280.jpg);
+    height:500px;
+    background-repeat:no-repeat;
+    
+    height:400px;
+}
+
+
+#Logo{
+    font-family: 'Titillium Web', sans-serif;
+    color: rgb(238, 186, 54);
+    font-size: 50px;
+}
+
+.form{
+    width:fit-content;
+    background-color:rgb(238, 186, 54);
+
+}
+
+#fieldset{
+    
+    border: 5px;
+    border-style:solid;
+    border-color:darkblue;
+}
+
+#titletable {
+    width: 90%;
+}
+#titletable :nth-child(2){
+    text-align: center;
+
+}
+#login{
+margin-left: 70%;
+margin:0;
+}
+
+#loginicon{
+
+    width:1.5rem;
+
+}
+
+.car{
+    display: flex;
+    width: 700px;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
